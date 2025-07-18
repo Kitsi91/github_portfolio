@@ -2,7 +2,7 @@
 <h3 align="center">Data Enthusiast • Cloud Explorer • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="C:\Users\kosta\Desktop\Picture1.jpg" alt="Kostas Kitsantas" width="160" style="border-radius: 50%;">
+  <img https://github.com/Kitsi91.png" alt="Kostas Kitsantas" width="160" style="border-radius: 50%;">
 </p>
 
 ---
