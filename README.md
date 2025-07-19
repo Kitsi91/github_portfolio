@@ -40,7 +40,7 @@ The main goal is to explore **city-level sales performance** and analyze profit,
 - A **horizontal bar chart** displaying total **Profit** per **Category** and **Sub-Category**
 - Enhanced with color intensity and data labels for easier comparison
 - ✅ *Insight:* Identify which product lines drive the most profit
-
+![Profit by Category](images/image1.png)
 ---
 
 ### ✅ Task 2: Profit by Ship Mode (Pie Chart)
