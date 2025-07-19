@@ -1,14 +1,12 @@
-Tableau Project_Sales over Cities
+# 📊 Tableau Project_Sales over Cities
+
+Welcome to an interactive data visualization project using the iconic **Superstore Dataset**. In this project, I use **Tableau** to explore and visualize key sales dynamics across different U.S. cities and customer segments through insightful and polished dashboards.
 
 This dataset contains detailed transactional information from a fictional retail business called the "Superstore" dataset. 
 It represents sales transactions from a fictional retail company that sells office supplies and furniture. It captures detailed information about customer orders, products,
 shipping and profitability across different regions.
 The dataset is a simulated snapshot of multi-year retail operations for an office supply and furniture store that serves customers across various U.S. regions.
 It captures key elements of a business's sales pipeline, including customer behavior, order fulfillment, shipping logistics, product categories and financial performance (sales, discounts, and profits).
-
-# 📊 Tableau Project: Sales Over Cities
-
-Welcome to an interactive data visualization project using the iconic **Superstore Dataset**. In this project, I use **Tableau** to explore and visualize key sales dynamics across different U.S. cities and customer segments through insightful and polished dashboards.
 
 ---
 
