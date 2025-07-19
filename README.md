@@ -117,3 +117,4 @@ This project showcases the ability to:
 - Tell impactful stories with data
 
 ---
+🔗 [View Full Dashboard on Tableau Public](https://public.tableau.com/app/profile/konstantinos.kitsantas/viz/SalesoverCities_17296817539510/Dashboard1)
