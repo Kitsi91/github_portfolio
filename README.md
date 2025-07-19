@@ -38,7 +38,7 @@ The main goal is to explore **city-level sales performance** and analyze profit,
 - A **horizontal bar chart** displaying total **Profit** per **Category** and **Sub-Category**
 - Enhanced with color intensity and data labels for easier comparison
 - ✅ *Insight:* Identify which product lines drive the most profit
-- 
+
 ![Profit by Category](images/image1.png)
 ---
 
@@ -51,7 +51,7 @@ The main goal is to explore **city-level sales performance** and analyze profit,
   - 📊 **Percentage of Total Profit**
 
 🧠 *Example:* `Standard Class – $164,089 – 57.29%`
----
+
 ![Profit by Ship Mode](images/image2.png)
 ---
 
@@ -61,10 +61,9 @@ The main goal is to explore **city-level sales performance** and analyze profit,
 - Cities with higher sales appear as **larger bubbles** and lower-sales cities are **smaller**
 - 🔵 Color gradient used to visualize differences in sales
 
----
-
 ![Sales by City](images/image3.png)
 ---
+
 ### ✅ Task 4: Sales Trends of Top 5 Cities (Line Chart)
 
 - A **continuous line chart** of **Sales over time (2016–2019)** for the **top 5 cities by total sales**
@@ -72,7 +71,6 @@ The main goal is to explore **city-level sales performance** and analyze profit,
 - 📍 *Min/Max points* are labeled for each city
 - 🎯 *Insight:* Spot seasonal spikes and city performance trends
 
----
 ![Sales Trends of Top 5 Cities](images/image4.png)
 ---
 
@@ -83,9 +81,9 @@ The main goal is to explore **city-level sales performance** and analyze profit,
   - Grouped by **Segment**, **Category** and **Ship Mode** on the X-axis
 - Bars are **colored by Segment** for better segmentation
 
----
 ![Sales by Segment, Category & Ship Mode](images/image5.png)
 ---
+
 ### ✅ Task 6: Discount vs Number of Orders (Dual Horizontal Bar Chart)
 
 - A **dual-axis bar chart** per **Sub-Category** showing:
@@ -94,9 +92,9 @@ The main goal is to explore **city-level sales performance** and analyze profit,
 - Independently colored and labeled
 - 📊 *Insight:* Assess whether higher discounts correlate with more orders
 
----
 ![Discount vs Number of Orders](images/image6.png)
 ---
+
 ### ✅ Task 7: Final Dashboard
 
 - A **composite Tableau Dashboard** combining all six visualizations
